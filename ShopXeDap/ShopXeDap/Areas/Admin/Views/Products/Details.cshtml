@@ -1,0 +1,265 @@
+﻿@model Model.EF.Product
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layouts.cshtml";
+}
+
+@section header{
+    Sản phẩm
+}
+
+
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                Thông tin chi tiết sản phẩm
+            </div>
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-lg-8">
+                        <div>
+                            <dl class="dl-horizontal">
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.Name)
+                                </dt>
+
+                                <dd style="margin-bottom: 15px;border-bottom: 1px solid;">
+                                    @Html.DisplayFor(model => model.Name)
+                                </dd>
+
+                                <br>
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.Code)
+                                </dt>
+
+                                <dd style="margin-bottom: 15px;border-bottom: 1px solid;">
+                                    @Html.DisplayFor(model => model.Code)
+                                </dd>
+
+                                <br>
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.MetaTitle)
+                                </dt>
+
+                                <dd style="margin-bottom: 15px;border-bottom: 1px solid;">
+                                    @Html.DisplayFor(model => model.MetaTitle)
+                                </dd>
+
+                                <br>
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.Description)
+                                </dt>
+
+                                <dd style="margin-bottom: 15px;border-bottom: 1px solid;">
+                                    @Html.DisplayFor(model => model.Description)
+                                </dd>
+
+                                <br>
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.Image)
+                                </dt>
+
+                                <dd style="margin-bottom: 15px">
+                                    <img style="width: 380px; height: 290px;" src="@Url.Content(Model.Image)" />
+                                </dd>
+
+                                <br>
+
+                                @*<dt>
+                                        @Html.DisplayNameFor(model => model.MoreImages)
+                                    </dt>
+
+                                    <dd style="margin-bottom: 15px;border-bottom: 1px solid;">
+                                        @Html.DisplayFor(model => model.MoreImages)
+                                    </dd>
+
+                                    <br>*@
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.Price)
+                                </dt>
+
+                                <dd style="margin-bottom: 15px;border-bottom: 1px solid;">
+                                    @Html.DisplayFor(model => model.Price)
+                                </dd>
+
+                                <br>
+
+                                @*<dt>
+                                        @Html.DisplayNameFor(model => model.PromotionPrice)
+                                    </dt>
+
+                                    <dd style="margin-bottom: 15px;border-bottom: 1px solid;">
+                                        @Html.DisplayFor(model => model.PromotionPrice)
+                                    </dd>
+
+                                    <br>*@
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.IncludedVAT)
+                                </dt>
+
+                                <dd style="margin-bottom: 15px;border-bottom: 1px solid;">
+                                    @Html.DisplayFor(model => model.IncludedVAT)
+                                </dd>
+
+                                <br>
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.Quantity)
+                                </dt>
+
+                                <dd style="margin-bottom: 15px;border-bottom: 1px solid;">
+                                    @Html.DisplayFor(model => model.Quantity)
+                                </dd>
+
+                                <br>
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.CategoryID)
+                                </dt>
+
+                                <dd style="margin-bottom: 15px;border-bottom: 1px solid;">
+                                    @Html.DisplayFor(model => model.ProductCategory.Name)
+                                </dd>
+
+                                <br>
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.Detail)
+                                </dt>
+
+                                <dd style="margin-bottom: 15px;border-bottom: 1px solid;">
+                                    @Html.Raw(Model.Detail)
+                                </dd>
+
+                                <br>
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.Warranty)
+                                </dt>
+
+                                <dd style="margin-bottom: 15px;border-bottom: 1px solid;">
+                                    @Html.DisplayFor(model => model.Warranty)
+                                </dd>
+
+                                <br>
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.CreateDate)
+                                </dt>
+
+                                <dd style="margin-bottom: 15px;border-bottom: 1px solid;">
+                                    @Html.DisplayFor(model => model.CreateDate)
+                                </dd>
+
+                                <br>
+
+                                @*<dt>
+                                        @Html.DisplayNameFor(model => model.CreateBy)
+                                    </dt>
+
+                                    <dd style="margin-bottom: 15px;border-bottom: 1px solid;">
+                                        @Html.DisplayFor(model => model.CreateBy)
+                                    </dd>
+
+                                    <br>
+
+                                    <dt>
+                                        @Html.DisplayNameFor(model => model.ModifiedDate)
+                                    </dt>
+
+                                    <dd style="margin-bottom: 15px;border-bottom: 1px solid;">
+                                        @Html.DisplayFor(model => model.ModifiedDate)
+                                    </dd>
+
+                                    <br>
+
+                                    <dt>
+                                        @Html.DisplayNameFor(model => model.ModifiedBy)
+                                    </dt>
+
+                                    <dd style="margin-bottom: 15px;border-bottom: 1px solid;">
+                                        @Html.DisplayFor(model => model.ModifiedBy)
+                                    </dd>
+
+                                    <br>
+
+                                    <dt>
+                                        @Html.DisplayNameFor(model => model.MetaKeywords)
+                                    </dt>
+
+                                    <dd style="margin-bottom: 15px;border-bottom: 1px solid;">
+                                        @Html.DisplayFor(model => model.MetaKeywords)
+                                    </dd>
+
+                                    <br>
+
+                                    <dt>
+                                        @Html.DisplayNameFor(model => model.MetaDescriptions)
+                                    </dt>
+
+                                    <dd style="margin-bottom: 15px;border-bottom: 1px solid;">
+                                        @Html.DisplayFor(model => model.MetaDescriptions)
+                                    </dd>
+
+                                    <br>*@
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.Status)
+                                </dt>
+
+                                <dd>
+                                    @Html.DisplayFor(model => model.Status)
+                                </dd>
+
+
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.TopHot)
+                                </dt>
+
+                                <dd style="margin-bottom: 15px;border-bottom: 1px solid;">
+                                    @Html.DisplayFor(model => model.TopHot)
+                                </dd>
+
+                                <br>
+
+                                @*<dt>
+                                        @Html.DisplayNameFor(model => model.ViewCount)
+                                    </dt>
+
+                                    <dd style="margin-bottom: 15px;border-bottom: 1px solid;">
+                                        @Html.DisplayFor(model => model.ViewCount)
+                                    </dd>*@
+
+                            </dl>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<p>
+
+    <button type="button" class="btn btn-warning" style="color:black">
+        @Html.ActionLink("Chỉnh sửa", "Edit", new { id = Model.ID })
+    </button>
+
+    <button type="button" class="btn btn-outline btn-default" style="color:black">
+        @Html.ActionLink("Trở lại danh sách", "Index")
+    </button>
+
+</p>
+
+
+

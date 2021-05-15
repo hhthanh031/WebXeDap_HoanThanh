@@ -1,0 +1,89 @@
+﻿@model List<ShopXeDap.Models.CartItem>
+@{
+    ViewBag.Title = "Thanh toán";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="content">
+    <div class="section group">
+        @if (Model.Count > 0)
+        {
+            <table class="table">
+                <thead>
+                    <tr>
+                        <td class="hang1">Mã SP</td>
+                        <td class="hang1">Tên SP</td>
+                        <td class="hang1">Ảnh SP</td>
+                        <td class="hang1">Số lượng</td>
+                        <td class="hang1">Đơn giá</td>
+                        <td class="hang1">Thành tiền</td>
+                        @*<td></td>*@
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Product.Code</td>
+                            <td>@item.Product.Name</td>
+                            <td style="text-align: CENTER;"><img style="width: 130px;height: 100px;" src="@item.Product.Image" width="100" /></td>
+                            <td><input type="number" class="txtQuantity" data-id="@item.Product.ID" value="@item.Quantity" readonly="readonly" step="1" min="1" max="999"/></td>
+                            <td>@item.Product.Price.GetValueOrDefault(0).ToString("N0")</td>
+                            <td>@((item.Product.Price.GetValueOrDefault(0) * item.Quantity).ToString("N0"))</td>
+                            @*<td><a href="#" data-id="@item.Product.ID" class="btn-delete">Xoá</a></td>*@
+                        </tr>
+                    }
+                    <tr style="font-weight:bold; text-align:right; color:#E4292F">
+                        <td colspan="4">Tổng số lượng: @ViewBag.Tongsoluong</td>
+                        <td colspan="2">Tổng tiền: @((ViewBag.Tongtien).ToString("N0")) VNĐ </td>
+                    </tr>
+                </tbody>
+            </table>
+        }
+    </div>
+    <div class="section group">
+        <div class="col-md-5" id="payment_left">
+            @using (Html.BeginForm("Payment", "Cart", FormMethod.Post))
+            {
+                <h2>NHẬP THÔNG TIN KHÁCH HÀNG</h2>
+                <p style="padding-bottom: 15px;">Lưu ý: Những trường có dấu * là bắt buộc.</p>
+                <div class="form-group">
+                    <label>Người nhận*</label>
+                    <input name="shipName" class="form-control" required/>
+                </div>
+                <div class="form-group">
+                    <label>Điện thoại*</label>
+                    <input name="mobile" class="form-control" required/>
+                </div>
+                <div class="form-group">
+                    <label>Địa chỉ*</label>
+                    <input name="address" class="form-control" required/>
+                </div>
+                <div class="form-group">
+                    <label>Email*</label>
+                    <input type="email" name="email" class="form-control" required/>
+                </div>
+                <button type="submit" id="btnSend" class="btn btn-success" style="margin-top: 10px; margin-bottom: 10px;">Gửi đơn hàng</button>
+            }
+        </div>
+
+        <div class="col-md-5" id="payment_right">
+            <h2>PHƯƠNG THỨC THANH TOÁN</h2>
+
+            @*<div class="phuongthucthanhtoan">
+                <input type="radio" id="1-option" class="luachon1" name="selector" checked>
+                <label for="1-option">Thanh toán khi giao hàng (COD)</label>
+            </div>*@
+
+            <div class="phuongthucthanhtoan">
+                <input type="radio" id="2-option" class="luachon2" name="selector">
+                <label for="2-option">Thanh toán trực tiếp tiền mặt</label>
+            </div>
+
+            @*<div class="phuongthucthanhtoan">
+                <input type="radio" id="3-option" class="luachon3" name="selector">
+                <label for="3-option">Chuyển khoản ngân hàng</label>
+            </div>*@
+        </div>
+
+    </div>
+</div>

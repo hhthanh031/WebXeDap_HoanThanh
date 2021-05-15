@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Model.EF.ProductCategory>
+
+@{
+    ViewBag.Title = "Quản lý thể loại";
+    Layout = "~/Areas/Admin/Views/Shared/_Layouts.cshtml";
+}
+
+@section header{
+    Thể loại
+}
+
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                Danh sách thể loại
+            </div>
+            <!-- /.panel-heading -->
+            <div class="panel-body">
+                @using (Html.BeginForm("Index", "ProductCategory", FormMethod.Get))
+                {
+                    <div class="row form-group">
+                        <div class="col-lg-12">
+                            @*<div class="col-md-4">
+                                    <input type="text" value="@ViewBag.SearchString" class="form-control" name="searchString" />
+                                </div>*@
+                            <div class="col-md-4">
+                                @*<button type="submit" class="btn btn-success">Tìm kiếm</button>*@
+                                <a class="btn btn-primary" href="/Admin/ProductCategory/Create">Thêm mới</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+
+                <div class="table-responsive">
+                    <table class="table table-striped table-bordered table-hover">
+                        <thead>
+                            <tr>
+                                <th>Tên thể loại</th>
+                                <th>Trạng thái</th>
+                                <th>#</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr id="row_@item.ID">
+
+                                    <td>@item.Name</td>
+                                    <td>@(item.Status ? "Khả dụng" : "Không khả dụng")</td>
+                                    <td>
+                                        <a class="btn btn-outline btn-primary" href="/Admin/ProductCategory/Edit/@item.ID">Sửa</a>
+                                        <a class="btn btn-outline btn-warning" href="/Admin/ProductCategory/Details/@item.ID">Chi tiết</a>
+                                        @*<a class="btn btn-outline btn-danger" href="/Admin/ProductCategory/Delete/@item.ID">Xoá</a>*@
+                                        <button type="button" class="btn btn-outline btn-default">@Html.ActionLink("Xem sản phẩm", "SanPhams", new { catelogID = item.ID })</button>
+                                        
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    @*@Html.PagedListPager(Model, page => Url.Action("Index", new { page, @searchString = @ViewBag.SearchString }))*@
+                </div>
+                <!-- /.table-responsive -->
+            </div>
+            <!-- /.panel-body -->
+        </div>
+    </div>
+</div>

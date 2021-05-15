@@ -1,0 +1,36 @@
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\Common\bin\Debug\Common.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\Common\bin\Debug\Common.pdb
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\Common\obj\Debug\Common.dll
+C:\Users\Admin\Desktop\backup giỏ hàng\ShopXeDap\Common\obj\Debug\Common.pdb
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Common\bin\Debug\Common.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Common\bin\Debug\Common.pdb
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Common\obj\Debug\Common.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Common\obj\Debug\Common.pdb
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Common\bin\Debug\Common.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Common\bin\Debug\Common.pdb
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Common\obj\Debug\Common.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Common\obj\Debug\Common.pdb
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Common\bin\Debug\Common.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Common\bin\Debug\Common.pdb
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Common\obj\Debug\Common.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Common\obj\Debug\Common.pdb
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Common\bin\Debug\Common.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Common\bin\Debug\Common.pdb
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Common\obj\Debug\Common.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Common\obj\Debug\Common.pdb
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Common\bin\Debug\Common.dll
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Common\bin\Debug\Common.pdb
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Common\obj\Debug\Common.dll
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Common\obj\Debug\Common.pdb

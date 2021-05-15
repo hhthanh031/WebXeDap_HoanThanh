@@ -1,0 +1,61 @@
+﻿@model List<ShopXeDap.Models.CartItem>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section jsFooter{
+    <script src="/assets/client/js/controller/cartController.js"></script>
+}
+
+<div class="content">
+
+    <div class="section group">
+        @if (Model.Count > 0)
+        {
+            <table class="table">
+                <thead>
+                    <tr>
+                        <td class="hang1">Mã SP</td>
+                        <td class="hang1">Tên SP</td>
+                        <td class="hang1">Ảnh SP</td>
+                        <td class="hang1">Số lượng</td>
+                        <td class="hang1">Đơn giá</td>
+                        <td class="hang1">Thành tiền</td>
+                        <td></td>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Product.Code</td>
+                            <td>@item.Product.Name</td>
+                            <td style="text-align: CENTER;"><img style="width: 130px;height: 100px;" src="@item.Product.Image" width="100" /></td>
+                            <td><input type="number" class="txtQuantity" data-id="@item.Product.ID" value="@item.Quantity" step="1" min="1" max="999"  /></td>
+                            <td>@item.Product.Price.GetValueOrDefault(0).ToString("N0")</td>
+                            <td>@((item.Product.Price.GetValueOrDefault(0) * item.Quantity).ToString("N0")) </td>
+                            <td><a href="#" data-id="@item.Product.ID" class="btn-delete">Xoá</a></td>
+                        </tr>
+                    }
+                    <tr style="font-weight:bold; text-align:right; color:#E4292F">
+                        <td colspan="4">Tổng số lượng: @ViewBag.Tongsoluong</td>
+                        <td colspan="3">Tổng tiền: @((ViewBag.Tongtien).ToString("N0")) VNĐ </td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <button id="btnContinue" class="btn">Tiếp tục mua hàng</button>
+            <button id="btnUpdate" class="btn">Cập nhật giỏ hàng</button>
+            <button id="btnDeleteAll" class="btn">Xoá giỏ hàng</button>
+            <button id="btnPayment" class="btn">Thanh toán</button>
+        }
+        else
+        {
+            <span class="alert alert-danger">Chưa có sản phẩm nào trong giỏ hàng</span>
+        }
+
+    </div>
+</div>
+
+

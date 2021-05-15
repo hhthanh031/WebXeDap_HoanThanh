@@ -1,0 +1,200 @@
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\Model\bin\Debug\Model.dll.config
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\Model\bin\Debug\Model.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\Model\bin\Debug\Model.pdb
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\Model\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\Model\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\Model\obj\Debug\Model.dll
+C:\Users\Admin\Desktop\Web C#\WebBanXeDap\ShopXeDap\Model\obj\Debug\Model.pdb
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\Model\bin\Debug\Model.dll.config
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\Model\bin\Debug\Model.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\Model\bin\Debug\Model.pdb
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\Model\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\Model\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\Model\obj\Debug\Model.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\Model\obj\Debug\Model.pdb
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\Model\bin\Debug\PagedList.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\Model\bin\Debug\PagedList.xml
+C:\Users\Admin\Desktop\New folder (2)\Back-up!!!!!!!!!\WebBanXeDap\ShopXeDap\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\bin\Debug\Model.dll.config
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\bin\Debug\Model.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\bin\Debug\Model.pdb
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\bin\Debug\PagedList.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\bin\Debug\PagedList.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\obj\Debug\Model.dll
+C:\Users\Admin\Desktop\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\obj\Debug\Model.pdb
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\bin\Debug\Model.dll.config
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\bin\Debug\Model.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\bin\Debug\Model.pdb
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\bin\Debug\PagedList.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\bin\Debug\PagedList.xml
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\obj\Debug\Model.dll
+C:\Users\Admin\Desktop\Back-up3\Backup moi nhat 2\Backup moi nhat 2\WebBanXeDap\ShopXeDap\Model\obj\Debug\Model.pdb
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\Model\bin\Debug\Model.dll.config
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\Model\bin\Debug\Model.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\Model\bin\Debug\Model.pdb
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\Model\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\Model\bin\Debug\PagedList.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\Model\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\Model\bin\Debug\PagedList.xml
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\Model\obj\Debug\Model.dll
+C:\Users\Admin\Desktop\backup6-test\ShopXeDap\Model\obj\Debug\Model.pdb
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\Model\bin\Debug\Model.dll.config
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\Model\bin\Debug\Model.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\Model\bin\Debug\Model.pdb
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\Model\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\Model\bin\Debug\PagedList.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\Model\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\Model\bin\Debug\PagedList.xml
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\Model\obj\Debug\Model.dll
+C:\Users\Admin\Desktop\backup6-test (xài ngon)\ShopXeDap\Model\obj\Debug\Model.pdb
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Model\bin\Debug\Model.dll.config
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Model\bin\Debug\Model.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Model\bin\Debug\Model.pdb
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Model\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Model\bin\Debug\PagedList.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Model\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Model\bin\Debug\PagedList.xml
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Model\obj\Debug\Model.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Model\obj\Debug\Model.pdb
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Model\bin\Debug\Common.dll
+C:\Users\Admin\Desktop\backup giỏ hàng (đang xài)\ShopXeDap\Model\bin\Debug\Common.pdb
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Model\bin\Debug\Model.dll.config
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Model\bin\Debug\Model.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Model\bin\Debug\Model.pdb
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Model\bin\Debug\Common.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Model\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Model\bin\Debug\PagedList.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Model\bin\Debug\Common.pdb
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Model\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Model\bin\Debug\PagedList.xml
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Model\obj\Debug\Model.dll
+C:\Users\Admin\Desktop\zzz\back-up final\ShopXeDap\Model\obj\Debug\Model.pdb
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\Model\bin\Debug\Model.dll.config
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\Model\bin\Debug\Model.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\Model\bin\Debug\Model.pdb
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\Model\bin\Debug\Common.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\Model\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\Model\bin\Debug\PagedList.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\Model\bin\Debug\Common.pdb
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\Model\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\Model\bin\Debug\PagedList.xml
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\Model\obj\Debug\Model.dll
+C:\Users\Admin\Desktop\backup (13-4-2021)\ShopXeDap\Model\obj\Debug\Model.pdb
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Model\bin\Debug\Model.dll.config
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Model\bin\Debug\Model.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Model\bin\Debug\Model.pdb
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Model\bin\Debug\Common.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Model\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Model\bin\Debug\PagedList.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Model\bin\Debug\Common.pdb
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Model\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Model\bin\Debug\PagedList.xml
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Model\obj\Debug\Model.dll
+C:\Users\Admin\Desktop\backup (14-4-2021)\ShopXeDap\Model\obj\Debug\Model.pdb
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Model\bin\Debug\Model.dll.config
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Model\bin\Debug\Model.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Model\bin\Debug\Model.pdb
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Model\bin\Debug\Common.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Model\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Model\bin\Debug\PagedList.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Model\bin\Debug\Common.pdb
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Model\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Model\bin\Debug\PagedList.xml
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Model\obj\Debug\Model.dll
+C:\Users\Admin\Desktop\back-up (17-4-2021)\ShopXeDap\Model\obj\Debug\Model.pdb
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Model\bin\Debug\Model.dll.config
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Model\bin\Debug\Model.dll
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Model\bin\Debug\Model.pdb
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Model\bin\Debug\Common.dll
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Model\bin\Debug\EntityFramework.dll
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Model\bin\Debug\PagedList.dll
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Model\bin\Debug\PagedList.Mvc.dll
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Model\bin\Debug\Common.pdb
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Model\bin\Debug\EntityFramework.xml
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Model\bin\Debug\PagedList.xml
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Model\bin\Debug\PagedList.Mvc.xml
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Model\obj\Debug\Model.csproj.CopyComplete
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Model\obj\Debug\Model.dll
+D:\Download\Frontend-Backend-WebXeDap-master\ShopXeDap\Model\obj\Debug\Model.pdb
